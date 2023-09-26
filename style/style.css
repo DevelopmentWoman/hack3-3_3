@@ -29,7 +29,7 @@ main{
 main section{
     height: 23vh;
     width: 100%;
-    margin-bottom: 2vh;
+    gap: 2vh
     background-color: var(--clr-wine);
 }
 
